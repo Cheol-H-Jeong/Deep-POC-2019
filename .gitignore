@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+#ginore directory
+coco-annotator/
+res/
+cocoapi/
