@@ -1,0 +1,4 @@
+## 모든 파일 ignore
+*
+# Except this file
+!.gitignore

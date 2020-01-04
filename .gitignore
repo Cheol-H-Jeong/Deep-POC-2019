@@ -105,6 +105,7 @@ venv.bak/
 
 
 #ginore directory
-coco-annotator/
-res/
+image/
 cocoapi/
+coco_images/
+testing_images/
